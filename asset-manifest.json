@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/barmanPortfolio/static/css/main.2d9d253a.css",
+    "main.js": "/barmanPortfolio/static/js/main.96a0de83.js",
+    "static/media/6.jpg": "/barmanPortfolio/static/media/6.9a5ff160b6dae5414945.jpg",
+    "static/media/4.jpg": "/barmanPortfolio/static/media/4.eeeab28dc790b1909823.jpg",
+    "static/media/2.jpg": "/barmanPortfolio/static/media/2.75f99dd4e04e5b0e7fbe.jpg",
+    "static/media/3.jpg": "/barmanPortfolio/static/media/3.25dc46c4a63db0250c6a.jpg",
+    "static/media/5.webp": "/barmanPortfolio/static/media/5.bea3f1e58502a3d0930f.webp",
+    "static/media/1.webp": "/barmanPortfolio/static/media/1.e247b87abc6a6ef679be.webp",
+    "static/media/cocklg.png": "/barmanPortfolio/static/media/cocklg.81ca1f5301b5f8d493bb.png",
+    "static/media/7.jfif": "/barmanPortfolio/static/media/7.6c2d02a280c5c4c2a688.jfif",
+    "index.html": "/barmanPortfolio/index.html",
+    "main.2d9d253a.css.map": "/barmanPortfolio/static/css/main.2d9d253a.css.map",
+    "main.96a0de83.js.map": "/barmanPortfolio/static/js/main.96a0de83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9d253a.css",
+    "static/js/main.96a0de83.js"
+  ]
+}
